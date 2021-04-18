@@ -1,4 +1,4 @@
-I'm just learning something
+Just learning something
 
 ### Spotify Playing 🎧
 
