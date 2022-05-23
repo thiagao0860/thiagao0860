@@ -6,4 +6,4 @@ Just learning
 
 - For more information you can see my presentation page developed in collaboration with my friend [Gabriel Elisbão](https://github.com/lisbao1303):
     
-    [StackView ](https://github.com/lisbao1303)
+    [StackView BR](https://stackview.com.br/thiagao)
